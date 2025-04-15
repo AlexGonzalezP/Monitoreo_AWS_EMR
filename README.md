@@ -19,9 +19,8 @@ Diseñar un sistema que permita supervisar el rendimiento y estado de un clúste
 - `hadoop-env.sh`: Script modificado para incluir el agente JMX Exporter en Hadoop.
 - `jmx_prometheus_javaagent-0.16.1.jar`: Agente que expone métricas JMX.
 - `prometheus.yml`: Configuración del servidor Prometheus para scrapear las métricas del clúster.
-- Capturas de pantalla del dashboard en Grafana.
-- Manual paso a paso de la práctica.
-- Respuestas a las preguntas de reflexión.
+- `Tarea_Evaluable_3ªEvaluación_Big_Data_Aplicado_Monitoreo_AWS_EMR.pdf`: Manual con el desarrollo paso a paso de todas las configuraciones, apoyado con imágenes.
+
 
 ## Despliegue
 
